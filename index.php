@@ -44,8 +44,8 @@ include_once("inc/inc_fungsi.php");
 <section id="courses">
     <div class="kolom">
         <p class="deskripsi"><?php echo ambil_kutipan('14') ?></p>
-        <h2><?php echo ambil_judul('14') ?></h2>
-        <?php echo ambil_isi('14') ?>
+        <h2><?php echo ambil_judul('12') ?></h2>
+        <?php echo ambil_isi('12') ?>
         <p><a href="<?php echo buat_link_halaman('14') ?>" class="tbl-biru">Pelajari lebih lanjut</a></p>
     </div>
     <img src="https://img.freepik.com/free-vector/course-app-concept-illustration_114360-6219.jpg?t=st=1715441773~exp=1715445373~hmac=573dfeec45206e71b9cb22e27dfa1da13490acedb8667eb4c16029831235009a&w=740" alt="">
